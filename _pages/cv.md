@@ -84,10 +84,10 @@ Patents
 ======
 * **一种风电场群出力间歇性的多时间尺度定量刻画方法**
   Patent No: CN201910545234.7
-  * [Patent Link]([https://example-link.com](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p4w0870b76y0x901u500xy0em727675&site=xueshu_se)
+  * [Patent Link](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p4w0870b76y0x901u500xy0em727675&site=xueshu_se)
 * **一种考虑场-网因素的风电爬坡事件预警方法**
   Patent No: CN201910631937.1
-  * [Patent Link]([https://example-link.com](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s3102j0wr4h0ju05g2h06k0w6047878&site=xueshu_se)
+  * [Patent Link](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s3102j0wr4h0ju05g2h06k0w6047878&site=xueshu_se)
   
 Honours and Award
 ======
