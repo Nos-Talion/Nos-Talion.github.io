@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc. in Robotics, King’s College London, 2023
+* B.S. in Electrical Engineering and Automation, Harbin Institute of Technology, 2019
 
-Work experience
+
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,14 +32,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +39,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Honours and Award
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Excellent Graduation Thesis.  Jun.2019
+* The third prize of Harbin Institute of Technology at the National College Students Social Practice and Science & Tech Competition on Energy Conservation and Emission Reduction. May. 2019
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
