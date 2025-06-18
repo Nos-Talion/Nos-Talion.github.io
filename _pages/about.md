@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xixin Zhao(赵锡鑫)"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
