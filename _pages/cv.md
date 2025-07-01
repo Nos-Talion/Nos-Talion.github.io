@@ -29,7 +29,7 @@ Research experience
     2)Collecting data in MuJoCo, adapting HIL-SERL policy to handle variations in different tasks，improving the visual backbone to speed up training and improve generalization, Simulating robot SO-101 Tasks, and fine tuning reward.
   * Team Member: Xinyu Song
 
-* Oct. 2024 - Mar. 2025: Research Assistant
+* Oct. 2024 - Mar. 2025: Intern
   * National University of Singapore
   * Duties included:
     1) Collecting data in Maniskill2, designing reward, training PPO policy for Dual-arm robotics to grasp irregularly-shaped containers, adding constraints + affordance collection.
