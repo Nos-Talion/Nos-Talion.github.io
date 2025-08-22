@@ -64,7 +64,7 @@ Research experience
     2) Built a multi-layer BP neural network to predict intermittent of wind farm and provided power generation strategies.
 
 * Sep. 2018 - Aug. 2019: Bachelor thesis
-  * GHarbin Institute of Technology
+  * Harbin Institute of Technology
   * Duties included:
     1) Clarifying the concepts and interrelationships among wind power uncertainty, randomness, volatility, and intermittency, proposing a characterization indicator for wind power intermittency based on wind speed intermittency metrics, analyzing the diurnal and annual periodicity of wind power intermittency.
     2) Designing a neural network algorithm to predict the intermittency of a single wind turbine, constructing a virtual wind farm using correlation analysis, predicting wind farm-level intermittency using a neural network model.
